@@ -1,6 +1,6 @@
 # Image Synthesis for Brain MRI Using DDPM and DCGAN
 
-This repository advances medical imaging by implementing Denoising Diffusion Probabilistic Models (DDPM) and Deep Convolutional Generative Adversarial Networks (DCGAN) to generate high-fidelity synthetic Brain MRI images. It aims to enhance diagnostics and research, focusing on the synthesis of images that closely resemble actual medical scans.
+This repository advances medical imaging by implementing Denoising Diffusion Probabilistic Models (DDPM) and Deep Convolutional Generative Adversarial Networks (DCGAN) to generate high-fidelity synthetic Brain MRI images. It aims to enhance diagnostics and research, focusing on synthesis of images that closely resemble actual MRI scans.
 
 ### Technologies:
 
