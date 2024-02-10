@@ -7,6 +7,11 @@ This repository advances medical imaging by implementing Denoising Diffusion Pro
 - **DDPM:** Models the distribution of real images and gradually converts noise into structured data through a reverse diffusion process.
 - **DCGAN:** Employs a generative adversarial network architecture optimized for deep convolutional networks.
 
+To install necessary libraries for DDPM, you should first run:
+```
+pip install monai-generative
+```
+
 ### Evaluation Metrics
 
 - **Fréchet Inception Distance (FID):** Lower scores indicate higher similarity to real images.
